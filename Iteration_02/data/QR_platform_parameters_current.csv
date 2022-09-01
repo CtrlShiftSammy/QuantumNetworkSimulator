@@ -1,0 +1,6 @@
+NV_centers  5  50  10
+SiV_centers  5  30  1
+Q_dots  10  1000  0.003
+Ions  25  0.47  20
+Atoms  50  5  100
+Custom  60  2500  1
